@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/GMTranslationApp/static/css/main.6d347671.css",
+    "main.css": "/GMTranslationApp/static/css/main.8fe2845f.css",
     "main.js": "/GMTranslationApp/static/js/main.32295952.js",
     "index.html": "/GMTranslationApp/index.html",
-    "main.6d347671.css.map": "/GMTranslationApp/static/css/main.6d347671.css.map",
+    "main.8fe2845f.css.map": "/GMTranslationApp/static/css/main.8fe2845f.css.map",
     "main.32295952.js.map": "/GMTranslationApp/static/js/main.32295952.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d347671.css",
+    "static/css/main.8fe2845f.css",
     "static/js/main.32295952.js"
   ]
 }
